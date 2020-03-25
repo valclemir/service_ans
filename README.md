@@ -14,4 +14,4 @@ Pacotes necessarios para que o serviço funcione:
  O nome de todos os arquivos .xslx devem está no seguinte formato, exemplo:
  
       ARQ_CONF_ANS_2020_01
-      No exexmplo acima, o arquivo é da competencia de janeiro, ficando então: 2020_01
+      No exexmplo acima, o arquivo é da competência de janeiro, ficando então: ARQ_CONF_ANS_2020_01
